@@ -2,7 +2,7 @@
 
 - <img align="center" alt="Sonic" width="22" height="26" src="https://media.tenor.com/jD4sqQ5G6hIAAAAi/sonic-running.gif"> Beginner Game Dev 📱🕹💻 
 - <img align="center" alt="Mario" width="35" height="35" src="https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif"> Pixel Art Designer 
-- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> Studying GML & Web Development <img align="center" alt="" height="37" width="32" src="https://giphy.com/embed/L1KbR3qwCBhWLDytaM.gif">
+- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> Studying GML & Web Development
   
 ## Engines | Programming Languages & Tools 
 
