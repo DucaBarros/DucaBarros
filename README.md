@@ -1,7 +1,7 @@
 ## Hello World! I'm Duca! ようこそ！ Welcome to my realm!  <img align="center" alt="Loading" height="45" width="100" src="https://i.gifer.com/ZWdx.gif">
 
-- Studying <img align="center" alt="Web" height="32" width="45" src="https://github.com/DucaBarros/my_files/blob/ef0621fd187e4e72cc9334df73b0e351f1e2ac49/Software_Engineering_GVSU_Badge.png">
-- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> GML & Web Development
+- <img align="center" alt="Web" height="55" width="45" src="https://github.com/DucaBarros/my_files/blob/ef0621fd187e4e72cc9334df73b0e351f1e2ac49/Software_Engineering_GVSU_Badge.png"> Student
+- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> Studying GML & Web Development
 - <img align="center" alt="Python" height="35" src="https://www.python.org/static/img/python-logo.png"> # OOP and Automation
 - <img align="center" alt="Sonic" width="22" height="26" src="https://media.tenor.com/jD4sqQ5G6hIAAAAi/sonic-running.gif"> Beginner Game Dev 📱🕹💻 
 - <img align="center" alt="Mario" width="35" height="35" src="https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif"> Pixel Art Designer 
