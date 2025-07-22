@@ -1,10 +1,9 @@
-## Hello World! I'm Duca! ようこそ！ Welcome to my realm!  <img align="center" alt="Loading" height="45" width="100" src="https://i.gifer.com/ZWdx.gif">
+## Hello World! I'm Duca! ようこそ！ Welcome to my realm!  <img align="center" alt="Loading" height="45" width="100" src="https://i.gifer.com/ZWdx.gif">- <img align="center" alt="Mario" width="35" height="35" src="https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif">
 
 * <img align="center" alt="Software Engineering" width="100" src="https://github.com/DucaBarros/my_files/blob/ef0621fd187e4e72cc9334df73b0e351f1e2ac49/Software_Engineering_GVSU_Badge.png"><img align="center" alt="Frontend" width="100" src="https://github.com/DucaBarros/my_files/blob/main/FRONTEND-Badge.png"><img align="center" alt="Backend" width="100" src="https://github.com/DucaBarros/my_files/blob/main/BACKEND-Python-Badge.png">
-- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> Studying GML & Web Development
-- <img align="center" alt="Python" height="35" src="https://www.python.org/static/img/python-logo.png"> # OOP and Automation
-- <img align="center" alt="Sonic" width="22" height="26" src="https://media.tenor.com/jD4sqQ5G6hIAAAAi/sonic-running.gif"> Beginner Game Dev 📱🕹💻 
-- <img align="center" alt="Mario" width="35" height="35" src="https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif"> Pixel Art Designer 
+- <img align="center" alt="Web" height="32" width="45" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"> Focus on Web Dev & Data Science
+- <img align="center" alt="Python" height="35" src="https://www.python.org/static/img/python-logo.png"> # Studying OOP, Automation & AI
+- <img align="center" alt="Sonic" width="22" height="26" src="https://media.tenor.com/jD4sqQ5G6hIAAAAi/sonic-running.gif"> Game Dev & Pixel Art as a Hobby 🕹💻 
   
 ## Engines | Programming Languages & Tools 
 
