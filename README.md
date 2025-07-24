@@ -13,15 +13,17 @@
   <img align="center" alt="HTML5" width="91" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" width="78" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="NodeJS" width="105" height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="MySQL" height="30" width="91" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Salesforce" height="30" width="91" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
+  <img align="center" alt="MySQL" width="105" height="35" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Salesforce" width="140" height="65" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
 
 ## Social Medias
 
-<a href="https://ducabarros.itch.io"><img align="center" alt="Itch.io" height="28" width="98" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardo-barros-dev-software-translator"><img align="center" alt="LinkedIn" height="28" width="98" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/ducametal/"> <img align="center" alt="Steam" height="28" width="83" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://www.kaggle.com/ducabarros"> <img align="center" alt="kaggle" height="28" width="121" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://ducabarros.itch.io"><img align="center" alt="Itch.io" height="28" width="98" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="https://www.instagram.com/ducabarros/"> <img align="center" alt="Instagram" height="28" width="121" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/ducametal/"> <img align="center" alt="Steam" height="30" width="121" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 
 ## Languages I speak
 - 🇧🇷  <img vertical-align:="middle" alt="Star" height="15" width="15" src="https://i.gifer.com/ZNec.gif"><img vertical-align:="middle" alt="Star" height="15" width="15" src="https://i.gifer.com/ZNec.gif"><img vertical-align:="middle" alt="Star" height="15" width="15" src="https://i.gifer.com/ZNec.gif"><img vertical-align:="middle" alt="Star" height="15" width="15" src="https://i.gifer.com/ZNec.gif"><img vertical-align:="middle" alt="Star" height="15" width="15" src="https://i.gifer.com/ZNec.gif">
