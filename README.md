@@ -3,7 +3,7 @@
 <img align="center" alt="Cybersecurity" width="100" src="https://github.com/DucaBarros/my_files/blob/main/Cybersecurity_Badge.png"><img align="center" alt="Linux" width="100" src="https://github.com/DucaBarros/my_files/blob/main/Linux_Badge.png"><img align="center" alt="Networking" width="100" src="https://github.com/DucaBarros/my_files/blob/main/Networking_Badge.png"><img align="center" alt="Frontend" width="100" src="https://github.com/DucaBarros/my_files/blob/main/FRONTEND-Badge.png"><img align="center" alt="Backend" width="100" src="https://github.com/DucaBarros/my_files/blob/main/BACKEND-Python-Badge.png">
 - Ethical Hacking & Cybersecurity
   
-## Engines | Programming Languages & Tools 
+## Technologies 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GML" width="111" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GameMaker_Studio_2_logo.png/1280px-GameMaker_Studio_2_logo.png">
