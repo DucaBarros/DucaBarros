@@ -16,7 +16,7 @@
 
 ## Social Medias
 
-<a href="https://www.linkedin.com/in/eduardo-barros-dev-software-translator"><img align="center" alt="LinkedIn" height="28" width="98" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eduardo-barros-it-cyber-hacking"><img align="center" alt="LinkedIn" height="28" width="98" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/ducabarros"> <img align="center" alt="kaggle" height="28" width="121" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://ducabarros.itch.io"><img align="center" alt="Itch.io" height="28" width="98" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/ducametal/"> <img align="center" alt="Steam" height="30" width="121" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
